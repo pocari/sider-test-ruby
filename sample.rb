@@ -1,5 +1,5 @@
 def hoge
-  p :piyo
+    p :piyo
 end
 
 hoge
